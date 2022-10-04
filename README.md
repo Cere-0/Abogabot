@@ -15,6 +15,7 @@ ___
 |  Lider Funcional |
 |   |
 ___
+
 | Modelamiento de Negocio  |
 |---|
-| ![Diagrama bmpn representando los requerimientos para el sitio web.](images/Abogabot.drawio.svg)  |
+| ![Diagrama bmpn representando los requerimientos para el sitio web.](images/Abogabot.svg)  |
