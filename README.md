@@ -17,4 +17,4 @@ ___
 ___
 | Modelamiento de Negocio  |
 |---|
-| ![Alt text here](images/Abogabot.drawio.svg)  |
+| ![Diagrama bmpn representando los requerimientos para el sitio web.](images/Abogabot.drawio.svg)  |
