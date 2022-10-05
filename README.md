@@ -1,4 +1,4 @@
-## DESCRIPCION GENERAL DEL REQUERIMIENTO 
+### DESCRIPCION GENERAL DEL REQUERIMIENTO 
 
 | PROYECTO                                                                     | Abogabot|
 |---                                                                           |---|
@@ -8,6 +8,7 @@
 |Dependencia(s) Solicitante:                                                   | Desarrollo de Software|
 |Responsable Funcional designado <br />por el equipo de desarrollo de software:|Alejandro Reyes Cerecero |
 ___
+### FASE DE FORMALIZACION
 | Descripcion de la Solicitud  |
 |---|
 | Usuario Solicitante  |
@@ -15,7 +16,15 @@ ___
 |  Lider Funcional |
 |   |
 ___
+### ANALISIS DE REQUISITOS Y REQUERIMIENTOS
 
 | Modelamiento de Negocio  |
 |---|
 | ![Diagrama bmpn representando los requerimientos para el sitio web.](images/Abogabot.svg)  |
+
+___
+|   | Terminos de Referencia  |
+|---|---|
+|Alcance de la solucion |   |
+|Requerimientos Funcionales  |   |
+|Requerimientos no Funcionales  |   |
