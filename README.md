@@ -26,5 +26,5 @@ ___
 |   | Terminos de Referencia  |
 |---|---|
 |Alcance de la solucion | * Pagina Web <br/> * Creacion de usuarios <br/> * Los usuarios podran crear y observar el progreso de sus casos. <br/> * Creacion automatica del documento legal apartir del formulario creado por el usuario. <br/> * Pagos desde la Web. <br/>  * Correos de actualizacion y notificaciones al usuario. Y de nuevos casos a los administradores. <br/> * Sitio web responsibo para celular. <br/> FUERA DEL ALCANCE: <br/> * Pagos en efectivo. <br/>  * Capacitacion de los administradores. | 
-|Requerimientos Funcionales  |   |
-|Requerimientos no Funcionales  |   |
+|Requerimientos Funcionales y <br> criterios de aceptacion. |Requisito: Los tramites de los pagos ocurren sin fallos. <br/> Criterio de aceptacion: La transferencia monetaria ocurre sin problemas y fue aceptada al 100%. <br/> Requisito:El sitio web se debe adaptar a diferentes dispositivos. <br/> Criterio de aceptacion: El sitio web se adapta a la mayoria de displays.|
+|Requerimientos no Funcionales  | NOOOO  |
