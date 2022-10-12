@@ -50,6 +50,6 @@ ___
 
 | Buyer Persona  |
 |---|
-| ![Imagen explicando la buyer persona del proyecto.](images/Buyer Persona.png) |
+| ![Imagen explicando la buyer persona del proyecto.](images/buyerPersona.png) |
 
 </details>
