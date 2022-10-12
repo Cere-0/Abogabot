@@ -1,6 +1,6 @@
 <details><summary> <b> DESCRIPCION GENERAL DEL REQUERIMIENTO </b> </summary> 
 
-| PROYECTO                                                                     | Abogabot|
+| PROYECTO                                                                     | Abogabot [^1]|
 |---                                                                           |---|
 | Nombre Requerimiento:                                                        | Creacion de sitio web. |
 | Fecha Solicitud:                                                             | 01/10/2022 |
@@ -26,7 +26,7 @@ ___
 
 <details><summary> <b> ANALISIS DE REQUISITOS Y REQUERIMIENTOS </b> </summary> 
 
-| Modelamiento de Negocio [^1] |
+| Modelamiento de Negocio [^2] |
 |---|
 | ![Diagrama bmpn representando los requerimientos para el sitio web.](images/Abogabot.svg) |
 
@@ -48,7 +48,7 @@ ___
 
 <details><summary> <b> BUYER PERSONA </b> </summary> 
 
-| Buyer Persona [^2] |
+| Buyer Persona [^3] |
 |---|
 | ![Imagen explicando la buyer persona del proyecto.](images/buyerPersona.png) |
 
@@ -57,5 +57,6 @@ ___
 ___
 
 ### Footnotes
-[^1]: Diagram made with draw.io
-[^2]: Buyer persona made with Figma
+[^1]: [Practica para LaunchX](https://github.com/Launch-X-Latam/MisionFrontEnd/blob/main/01%20-%20INTRO/practicas/README.md)
+[^2]: Diagram made with [draw.io](https://app.diagrams.net/)
+[^3]: Buyer persona made with [Figma](https://www.figma.com/)
