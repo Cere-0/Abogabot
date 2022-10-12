@@ -26,9 +26,9 @@ ___
 
 <details><summary> <b> ANALISIS DE REQUISITOS Y REQUERIMIENTOS </b> </summary> 
 
-| Modelamiento de Negocio  |
+| Modelamiento de Negocio [^1] |
 |---|
-| ![Diagrama bmpn representando los requerimientos para el sitio web.](images/Abogabot.svg)  |
+| ![Diagrama bmpn representando los requerimientos para el sitio web.](images/Abogabot.svg) |
 
 </details>
 
@@ -48,8 +48,14 @@ ___
 
 <details><summary> <b> BUYER PERSONA </b> </summary> 
 
-| Buyer Persona  |
+| Buyer Persona [^2] |
 |---|
 | ![Imagen explicando la buyer persona del proyecto.](images/buyerPersona.png) |
 
 </details>
+
+___
+
+### Footnotes
+[^1]: Diagram made with draw.io
+[^2]: Buyer persona made with Figma
