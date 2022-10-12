@@ -50,7 +50,7 @@ ___
 
 | Buyer Persona [^3] |
 |---|
-| ![Imagen explicando la buyer persona del proyecto.](images/buyerPersona.png) |
+| ![Imagen explicando la buyer persona del proyecto.](images/buyerPersona.png) [^fakepeople]|
 
 </details>
 
@@ -60,3 +60,4 @@ ___
 [^1]: [Practica para LaunchX](https://github.com/Launch-X-Latam/MisionFrontEnd/blob/main/01%20-%20INTRO/practicas/README.md)
 [^2]: Diagram made with [draw.io](https://app.diagrams.net/)
 [^3]: Buyer persona made with [Figma](https://www.figma.com/)
+[^fakepeople]: The profile pictures used in this project are from [This Person Does Not Exist](https://thispersondoesnotexist.com/)
