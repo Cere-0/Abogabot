@@ -43,3 +43,13 @@ ___
 |Requerimientos no Funcionales  | * El sitio web debe poder ser accesible el 99,9% de las veces en que un usuario intente accederlo. <br/> * El formulario, los datos personales de los usuario y contraseñas deberan ser encriptadas. <br/> * El sitio web debera poder ser usado en los navegadores mas usados tanto PC como dispositivos mobiles.  |
 
 </details>
+
+___
+
+<details><summary> <b> BUYER PERSONA </b> </summary> 
+
+| Buyer Persona  |
+|---|
+| ![Imagen explicando la buyer persona del proyecto.](images/Buyer Persona.png) |
+
+</details>
