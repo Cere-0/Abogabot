@@ -60,7 +60,7 @@ ___
 
 | Publico Objetivo [^5] |
 |---|
-| [![Imagen explicando el publico objetivo del proyecto.](images/targetAudience.jpg)](https://miro.com/app/board/uXjVPOXvGR4=/) [^fakepeople] |
+| [![Imagen explicando el publico objetivo del proyecto.](images/TargetAudience.jpg)](https://miro.com/app/board/uXjVPOXvGR4=/) [^fakepeople] |
 
 </details>
 
