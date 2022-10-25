@@ -82,8 +82,8 @@ ___
 
 | Wireframe UI [^7] |
 |---|
-| ![Imagen demostrando el Wireframe UI de la pagina.](images/WireframeUX.drawio.png) |
-| [Full Image here](https://github.com/Cere-0/Abogabot/blob/main/images/WireframeUX.drawio.png) |
+| ![Imagen demostrando el Wireframe UI de la pagina.](images/UI-1.png) |
+| |
 
 </details>
 
