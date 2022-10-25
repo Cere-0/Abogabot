@@ -78,6 +78,18 @@ ___
 
 ___
 
+<details><summary> <b> WIREFRAME UI</b> </summary> 
+
+| Wireframe UI [^7] |
+|---|
+| ![Imagen demostrando el Wireframe UI de la pagina.](images/WireframeUX.drawio.png) |
+| [Full Image here](https://github.com/Cere-0/Abogabot/blob/main/images/WireframeUX.drawio.png) |
+
+</details>
+
+
+___
+
 ### Footnotes
 [^1]: [Practica para LaunchX](https://github.com/Launch-X-Latam/MisionFrontEnd/blob/main/01%20-%20INTRO/practicas/README.md)
 [^2]: Diagram made with [draw.io](https://app.diagrams.net/)
@@ -85,3 +97,4 @@ ___
 [^fakepeople]: The profile pictures used in this project are from [This Person Does Not Exist](https://thispersondoesnotexist.com/)
 [^5]: Image made with [miro.com](https://miro.com/)
 [^6]: Wireframe made with [draw.io](https://app.diagrams.net/)
+[^7]: UI made with [Figma](https://www.figma.com/)
