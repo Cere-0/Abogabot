@@ -83,7 +83,7 @@ ___
 | Wireframe UI [^7] |
 |---|
 | ![Imagen demostrando el Wireframe UI de la pagina.](images/UI-1.png) |
-| |
+| ![Imagen demostrando el Wireframe UI de la pagina.](images/UI-2.png)|
 
 </details>
 
