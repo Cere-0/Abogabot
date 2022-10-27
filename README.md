@@ -84,6 +84,7 @@ ___
 |---|
 | ![Imagen demostrando el Wireframe UI de la pagina.](images/UI-1.png) |
 | ![Imagen demostrando el Wireframe UI de la pagina.](images/UI-2.png)|
+| ![Imagen demostrando el Wireframe UI de la pagina.](images/UI-3.png)|
 
 </details>
 
